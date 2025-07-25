@@ -1,0 +1,30 @@
+css
+
+body{
+font-family:Aerial,sans-serif;
+background-color:#f2f2f2;
+color:#333;
+margin:0;
+padding:0;
+}
+
+header{
+background-color:#0057a3;
+color:white;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+  margin:0 15px;
+  color:white;
+  text-decoration:none;
+}
+
+nav a:hover{
+ text-decoration:underline;
+}
+
+main{
+  padding:20px;
+}
